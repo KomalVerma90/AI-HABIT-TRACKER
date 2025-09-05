@@ -1,0 +1,4 @@
+Day 2: Completed AI predictions (/predict) and chart (/chart) with 50+ habits.
+Fixed Git commit error and renamed app.gitignore to .gitignore.
+Pushed to GitHub, updated repo URL to AI-HABIT-TRACKER.
+Ready for Day 3 (UI and reminders).
