@@ -16,12 +16,6 @@ A Flask-based web application designed to help users track habits, predict succe
    git clone https://github.com/KomalVerma90/AI-HABIT-TRACKER.git
    cd AI-HABIT-TRACKER
 
-## Screenshots
-<img src="screenshots/home.png" alt="Home Page">
-<img src="screenshots/view_habits.png" alt="View Habits">
-<img src="screenshots/predict.png" alt="Predict Success">
-
-
 ## Development Journey
 Day 1: Set up Flask app with basic routes (home, sign-up, add habit).
 
