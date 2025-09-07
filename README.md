@@ -24,19 +24,27 @@ A Flask-based web application designed to help users track habits, predict succe
 
 ## Development Journey
 Day 1: Set up Flask app with basic routes (home, sign-up, add habit).
+
 Day 2: Added 3D flip cards for habit viewing and a gradient background.
+
 Day 3: Integrated 3D sphere visualization (later replaced due to issues) and introduced progress bars.
+
 Day 4: Enhanced with progress bars for predictions, added feedback form, and fixed prediction errors for unseen labels.
 
 ## Technologies
 Backend: Python, Flask
+
 Data: SQLite, Pandas, Scikit-learn
+
 Frontend: HTML, CSS (animations), JavaScript
+
 Version Control: Git, GitHub
 
 ## Challenges & Solutions
 3D Visualization: Faced issues with Three.js (404 errors, ReferenceError). Switched to progress bars for reliability.
+
 Unseen Labels: Encountered prediction errors for new habits (e.g., 'meditate'). Implemented a fallback encoding.
+
 ## Future Improvements
 Future Improvements
 Retrain the model with more habit data for accurate predictions.
